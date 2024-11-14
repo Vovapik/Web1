@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleClassic.css">
+    <title>LABACLASSIC4</title>
+</head>
+<body>
+<div class="container">
+    <table class="layout-table">
+        <tr>
+            <td colspan="3" class="header">
+                <div class="header-box">
+                    <p>TEXT TEXT TEXT</p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="left-block">
+                <h1>PORTAL</h1><br>
+                <a href="index.html">
+                    Go to Main
+                </a><br>
+                <a href="LabaClassic2.html">
+                    Go to Page 2</a><br>
+                <a href="LabaClassic3.html">
+                    Go to Page 3</a>
+                 <br>
+<a href="LabaClassic5.html">
+                    Go to Page 5</a>
+                 <br>
+                <br>
+        <img src="text.png" height="200" width="150">
+            </td>
+            <td rowspan="2" class="main-block">Text, text, TEXT. Text text, text. TEXT text, text; Text, TEXT. Text, text TEXT text text. Text, text: TEXT, text. Text text TEXT, text text text. TEXT; text, Text text. TEXT text; text, text. Text text, TEXT, text text; TEXT.                 Text, text, TEXT. Text text, text. TEXT text, text; Text, TEXT. Text, text TEXT text text. Text, text: TEXT, text. Text text TEXT, text text text. TEXT; text, Text text. TEXT text; text, text. Text text, TEXT, text text; TEXT.</td>
+            <td class="right-block-1">Text, text, TEXT. Text text, text. TEXT text, text; Text, TEXT. Text, text TEXT text text. Text,  Text, text, TEXT. Text text, text. TEXT text, text; Text, TEXT. Text, text TEXT text text. Text,</td>
+        </tr>
+        <tr>
+            <td class="right-block-2">Text, text, TEXT. Text text, text. TEXT text, text; Text, TEXT. Text, text TEXT text text. Text,</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="footer">
+                <div class="footer-box">
+                    <p>TEXT TEXT TEXT</p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
