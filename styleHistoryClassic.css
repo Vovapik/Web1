@@ -4,15 +4,6 @@
     padding: 0;
 }
 
-p a {
-    color: #770ba3;
-    text-decoration: none;
-}
-
-p a:visited {
-    color: #770ba3;
-}
-
 body {
     font-family: " Harrington", Harrington, fantasy;
     background-image: url("background.jpg");
@@ -21,19 +12,6 @@ body {
     background-position: center;
     background-attachment: fixed;
     backdrop-filter: blur(3px);
-}
-
-.photos img {
-    display: none;
-    max-width: 80%;
-    height: auto;
-}
-.photos img:nth-child(1):target,
-.photos img:nth-child(2):target,
-.photos img:nth-child(3):target,
-.photos img:nth-child(4):target,
-.photos img:nth-child(5):target {
-    display: block;
 }
 
 .container {
